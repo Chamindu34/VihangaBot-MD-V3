@@ -1,8 +1,8 @@
 {
-    "name": "VIHANA MD",
+    "name": "CHAMINDU YT",
     "description": "whatsapp md bot build with nodejs",
     "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
-    "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgijcKQZ0amBS1pJJzIGcDAdLbwfnYFdH3SUHQXXFHPAv7VVV3fisqJIFUMD3zSJX9ir2F8dMkratJ6yQ3KhYTwE1Ig63u_ap76Z6IxnJq5St5l-te9GQCUgXUVC0t9kVqK4N8QaS-AX3xaa4iZTZmwHZ1oUE2tvSlJttNX4g_JkUpjFRM0a9t03k6F/s3264/20220910_114902.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
   
@@ -140,25 +140,25 @@
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "STICKER BY CHAMINDU YT"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "*BY CHAMINDU YT*"
 },
     
 "IMG_URL" :{
     "description" : "UPLOAD YOURE PHOTO TO IMGBB AND TYPE URL",
     "required" : true,
-  "value" : "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
+  "value" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgijcKQZ0amBS1pJJzIGcDAdLbwfnYFdH3SUHQXXFHPAv7VVV3fisqJIFUMD3zSJX9ir2F8dMkratJ6yQ3KhYTwE1Ig63u_ap76Z6IxnJq5St5l-te9GQCUgXUVC0t9kVqK4N8QaS-AX3xaa4iZTZmwHZ1oUE2tvSlJttNX4g_JkUpjFRM0a9t03k6F/s3264/20220910_114902.jpg"
 },
   
   "YT_URL" :{
     "description" : "IF U HAVE YT CHANNEL TYPE URL",
     "required" : true,
-    "value" :"https://youtu.be/Z9rIR0Vopb8"
+    "value" :"https://www.youtube.com/channel/UCydfYoomg_eZq86om5XYc0A"
     }
     },
   
