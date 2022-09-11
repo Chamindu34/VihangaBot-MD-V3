@@ -22,7 +22,7 @@
 
 ## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
 
-# Support Group <a href="https://chat.whatsapp.com/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+# Support Group <a href="https://chat.whatsapp.com/KX8s6jBuNiq7q0afQwVfa1"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+VIHANGA+MD+WA+BOT.;CREATED+BY+VIHANGA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
@@ -34,13 +34,13 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgijcKQZ0amBS1pJJzIGcDAdLbwfnYFdH3SUHQXXFHPAv7VVV3fisqJIFUMD3zSJX9ir2F8dMkratJ6yQ3KhYTwE1Ig63u_ap76Z6IxnJq5St5l-te9GQCUgXUVC0t9kVqK4N8QaS-AX3xaa4iZTZmwHZ1oUE2tvSlJttNX4g_JkUpjFRM0a9t03k6F/s3264/20220910_114902.jpg" alt="GIF" width="300" height="270"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/chamindu-yt-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
@@ -48,7 +48,6 @@
 
 <p align="center">By Vihanga YT>| © | Reserved  </br> 
  
- ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
 
 1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
