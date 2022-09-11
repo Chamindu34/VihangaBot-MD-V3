@@ -2,7 +2,7 @@
 #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-    Vihanga MD V3...
+    Chamindu YT V1...
 
     [©] New Features
 
